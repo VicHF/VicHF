@@ -1,6 +1,6 @@
 ### Hi! I'm Victoria HF 👩‍💻
 
-- 🤓 I’m currently learning C# and .Net
+- 🤓 I’m currently learning C# and .NET
 - 😊 Pronouns: she/her
 
 <div align="center">
